@@ -1,6 +1,6 @@
 # Hello!
 
-Just a dev trying to develop better tools and scripts
+random guy tinkering with random stuff to make random things
 
 ## About Me
 
@@ -19,9 +19,7 @@ I’m currently exploring new project ideas, improving my TypeScript and automat
 ## Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,py,flask,nodejs,mongodb,mysql,sqlite,arduino,figma,tailwind,vercel,docker" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nextjs,tailwindcss,bootstrap,nodejs,flask,mongodb,mysql,sqlite,docker,vercel,figma,arduino,autocad,discordjs&theme=dark&perline=11" alt="My Skills" /></a>
 </p>
 
 ## Contact
